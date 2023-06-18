@@ -4,6 +4,10 @@
 
 MyHeart is a powerful and user-friendly mobile application built using Dart in the Flutter framework. This application aims to promote heart health by seamlessly integrating with Apple smartwatches to gather real-time data and provide valuable insights and notifications to users.
 
+
+![mockup](https://github.com/devof313/Myheart/assets/134063162/7e3dda04-601e-4c2a-8408-004025db0280)
+
+
 ### Key Features
 
 - **Data Collection:** MyHeart establishes a secure connection with Apple smartwatches and efficiently retrieves heart rate, blood pressure, and other relevant health data. It leverages the capabilities of smartwatches to collect data continuously and non-invasively.
